@@ -175,7 +175,7 @@ showfileUploaderEncoding = "True"
 showPyplotGlobalUse = "True"
 
 
-[s3]
+# [s3]
 
 # Name of the AWS S3 bucket to save apps.
 # Default: (unset)
